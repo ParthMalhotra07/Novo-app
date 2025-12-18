@@ -136,6 +136,3 @@ This launches both the React frontend and Electron desktop window.
 
 ---
 
-## License
-
-MIT License
