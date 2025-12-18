@@ -136,13 +136,6 @@ This launches both the React frontend and Electron desktop window.
 
 ---
 
-## Authors
-
-- Parth Malhotra  
-- Team Novo
-
----
-
 ## License
 
 MIT License
